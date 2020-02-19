@@ -1,2 +1,2 @@
 # programming-language-learning
-Gathering m
+Gathering my small programs for learning new programming languages.
