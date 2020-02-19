@@ -1,0 +1,21 @@
+bsFolds                                Bootstrapping folds
+classify                               Classification model
+classifyPairs                          Classification model for pairs of algorithms
+cluster                                Cluster model
+contributions                          Analysis functions
+cvFolds                                Cross-validation folds
+imputeCensored                         Impute censored values
+input                                  Read data
+llama-package                          Leveraging Learning to Automatically Manage Algorithms
+misclassificationPenalties             Misclassification penalty
+normalize                              Normalize features
+parscores                              Penalized average runtime score
+perfScatterPlot                        Plot convenience functions to visualise selectors
+print.llama.data                       Helpers
+regression                             Regression model
+regressionPairs                        Regression model for pairs of algorithms
+satsolvers                             Example data for Leveraging Learning to Automatically Manage Algorithms
+successes                              Success
+trainTest                              Train / test split
+tuneModel                              Tune the hyperparameters of the machine learning algorithm underlying a model
+vbs                                    Convenience functions
